@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Valentín Negrelli",
+  "description": "Package developed throughout the course of Backend Development and APIs from freeCodeCamp by Valentín Negrelli",
   "dependencies": {
     "express": "^4.14.0"
   },
